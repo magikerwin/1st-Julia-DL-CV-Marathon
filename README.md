@@ -11,3 +11,6 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 002](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-002) : [Markdown](https://en.wikipedia.org/wiki/Markdown) & [LaTex](https://en.wikibooks.org/wiki/LaTeX)
 - [Day 003](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-003) : Package Management
 - [Day 004](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-004) : Number System
+- [Day 005](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-005) : Variables, Operators
+- [Day 006](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-006) : Functions
+- [Day 007](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-007) : Control Flow
