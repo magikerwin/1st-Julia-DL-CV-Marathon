@@ -14,3 +14,5 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 005](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-005) : Variables, Operators
 - [Day 006](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-006) : Functions
 - [Day 007](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-007) : Control Flow
+- [Day 008](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-008) : Char & String
+- [Day 009](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-009) : Arrays
