@@ -16,3 +16,5 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 007](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-007) : Control Flow
 - [Day 008](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-008) : Char & String
 - [Day 009](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-009) : Arrays
+- [Day 010](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-010) : Tuples, Pair, Dictionaries and Set
+- [Day 011](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-011) : Date & DateTime
