@@ -18,3 +18,5 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 009](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-009) : Arrays
 - [Day 010](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-010) : Tuples, Pair, Dictionaries and Set
 - [Day 011](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-011) : Date & DateTime
+- [Day 012](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-012) : Types
+- [Day 013](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-013) : Linear Algebras
