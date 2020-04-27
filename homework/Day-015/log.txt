@@ -1,0 +1,4 @@
+┌ Info: a global info log message
+└ @ Main In[8]:7
+┌ Debug: a global debug log message
+└ @ Main In[8]:8
