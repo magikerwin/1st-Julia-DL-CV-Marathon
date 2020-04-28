@@ -20,3 +20,6 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 011](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-011) : Date & DateTime
 - [Day 012](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-012) : Types
 - [Day 013](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-013) : Linear Algebras
+- [Day 014](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-014) : CSV, JSON and SQLite
+- [Day 015](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-015) : Logging & Exception Handling
+- [Day 016](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-016) : Multiple Dispatch
