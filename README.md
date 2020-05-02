@@ -27,3 +27,5 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 ## :triangular_flag_on_post: DataFrames.jl
 - [Day 017](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-017) : Getting Started
 - [Day 018](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-018) : Joins & Split-Apply-Combine Strategy
+- [Day 019](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-019) : Stack, Sort and Unique
+- [Day 020](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-019) : Handling Missing Values
