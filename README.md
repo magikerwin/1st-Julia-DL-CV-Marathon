@@ -10,6 +10,7 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 001](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-001) : Install & Setup [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
 - [Day 002](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-002) : [Markdown](https://en.wikipedia.org/wiki/Markdown) & [LaTex](https://en.wikibooks.org/wiki/LaTeX)
 - [Day 003](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-003) : Package Management
+## :triangular_flag_on_post: Basic Operators
 - [Day 004](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-004) : Number System
 - [Day 005](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-005) : Variables, Operators
 - [Day 006](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-006) : Functions
@@ -23,3 +24,6 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 014](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-014) : CSV, JSON and SQLite
 - [Day 015](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-015) : Logging & Exception Handling
 - [Day 016](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-016) : Multiple Dispatch
+## :triangular_flag_on_post: DataFrames.jl
+- [Day 017](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-017) : Getting Started
+- [Day 018](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-018) : Joins & Split-Apply-Combine Strategy
