@@ -28,4 +28,12 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 - [Day 017](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-017) : Getting Started
 - [Day 018](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-018) : Joins & Split-Apply-Combine Strategy
 - [Day 019](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-019) : Stack, Sort and Unique
-- [Day 020](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-019) : Handling Missing Values
+- [Day 020](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-020) : Handling Missing Values
+## :triangular_flag_on_post: EDA(Exploratory Data Analysis)
+- [Day 021](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-021) : [Gadfly](http://gadflyjl.org/stable/) (1D data)
+- [Day 022](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-022) : [Gadfly](http://gadflyjl.org/stable/) (2D data)
+- [Day 023](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-023) : [Plots](http://docs.juliaplots.org/latest/)
+- [Day 024](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-024) : [StatsBas](https://juliastats.org/StatsBase.jl/stable/)
+## :triangular_flag_on_post: Julia & Python
+- [Day 025](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-025) : [PyCall](https://github.com/JuliaPy/PyCall.jl) - Use Python from Julia
+- [Day 026](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-026) : [PyJulia](https://pyjulia.readthedocs.io/en/latest/) - Use Julia from Python
