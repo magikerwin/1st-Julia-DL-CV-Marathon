@@ -7,7 +7,7 @@
 
 ## 1. GPU 加速
 
-關於Day-033作業中使用cuda加速模型訓練，執行訓練時一直會報錯，不斷地更換各package/Julia版本後仍無解決問題，直到看到JJLai的期末專題文章，我參考FluxML官方的LeNet程式範例後，終於能順利使用cuda，這是我修改後的Day-033作業，本次專題也會參照同樣的方法訓練模型。
+關於Day-033作業中使用cuda加速模型訓練，執行訓練時一直會報錯，不斷地更換各package/Julia版本後仍無解決問題，直到看到JJLai的[期末專題文章](https://www.cupoy.com/clubnews/ai_tw/00000170BE605DC7000000016375706F795F72656C656173654B5741535354434C5542/000001723BDF7F4C000000096375706F795F72656C656173654B5741535354434C55424E455753)，我參考FluxML官方的[LeNet程式](https://github.com/FluxML/model-zoo/blob/master/vision/lenet_mnist/lenet_mnist.jl)範例後，終於能順利使用cuda，這是我修改後的[Day-033作業](https://github.com/magikerwin1993/1st-DL-CVMarathon/blob/master/homework/Day-033/julia_033_hw.ipynb)，本次專題也會參照同樣的方法訓練模型。
 
 ## 2. 讀入猴子資料集
 
@@ -47,19 +47,19 @@
 
 從初期的訓練結果中，發現模型在training data上有高正確率，但在testting dataset上正確率偏低，為了來避免模型overfitting，除了加入L2 Regularization與Dropout...等常見技巧，也嘗試減少整體網路的參數量，選用GlobalMeanPool來減少輸出端Dense層所需的參數量。
 
-此外，有加入BatchNorm來加速網路訓練，且增加模型對feature noise的抗性。有考慮是否加入Residual Connection，但有鑒於資料集不大，估計所需模型層數不超過15層，應該不用特別避免梯度傳遞問題，故最終決定不使用。
+此外，有加入[BatchNorm](https://arxiv.org/abs/1502.03167)來加速網路訓練，且增加模型對feature noise的抗性。有考慮是否加入[Residual Connection](https://arxiv.org/abs/1512.03385)，但有鑒於資料集不大，估計所需模型層數不超過15層，應該不用特別避免梯度傳遞問題，故最終決定不使用。
 
 ![Alt text](./assets/build_model.png)
 
 ## 4. loss function與優化設定
 
-選用Adam優化器來實作，loss function 與先前Day-033作業無太大差異，故不贅述。
+選用Adam優化器來實作，loss function 與先前[Day-033作業](https://github.com/magikerwin1993/1st-DL-CVMarathon/blob/master/homework/Day-033/julia_033_hw.ipynb)無太大差異，故不贅述。
 
 ![Alt text](./assets/hyper_parameters.png)
 
 ## 5. data augmentation
 
-使用現有的Augmentor.jl 套件來進行data augmentation，採用random flipping/ rotation/ room-in/ cropping。
+使用現有的[Augmentor.jl](https://github.com/Evizero/Augmentor.jl) 套件來進行data augmentation，採用random flipping/ rotation/ room-in/ cropping。
 
 ![Alt text](./assets/data_augmentation.png)
 
@@ -103,4 +103,4 @@
 
     7. ...
 
-最後，整理本次專題的學習心得，Julia語言確實有需多優勢，寫法也相當簡易明瞭，但缺點是網路上相關資源不夠多，遇到問題時很難馬上找到答案，像是Flux+GPU加速訓練的問題，我也是看到JJLai在05/22分享的期末專題文章，才順利啟動GPU加速訓練，不然差點因為訓練時間太久，而放棄本次期末專題挑戰XD。經過這次專題實作的磨練，讓我更加了解Juila語言，慢慢懂得下對關鍵字來找解決方法，雖然結果離進階目標的(acc > 95%)仍有很大差距，但還是很開心自己能在短時間內"堅持"完成期末專題。
+最後，整理本次專題的學習心得，Julia語言確實有需多優勢，寫法也相當簡易明瞭，但缺點是網路上相關資源不夠多，遇到問題時很難馬上找到答案，像是Flux+GPU加速訓練的問題，我也是看到JJLai在05/22分享的[期末專題文章](https://www.cupoy.com/clubnews/ai_tw/00000170BE605DC7000000016375706F795F72656C656173654B5741535354434C5542/000001723BDF7F4C000000096375706F795F72656C656173654B5741535354434C55424E455753)，才順利啟動GPU加速訓練，不然差點因為訓練時間太久，而放棄本次期末專題挑戰XD。經過這次專題實作的磨練，讓我更加了解Juila語言，慢慢懂得下對關鍵字來找解決方法，雖然結果離進階目標的(acc > 95%)仍有很大差距，但還是很開心自己能在短時間內"堅持"完成期末專題。
