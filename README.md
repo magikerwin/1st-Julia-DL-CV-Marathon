@@ -4,7 +4,7 @@ Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.
 
 <img src="./indexBanner.png">
 
-### :trophy: [Certificate] Coming soon ... <!-- https://github.com/magikerwin1993/1st-PyCrawlerMarathon/blob/master/Certificate.pdf -->
+### :trophy: [Certificate] https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/Certificate.pdf
 
 ## :triangular_flag_on_post: Introduction
 - [Day 001](https://github.com/magikerwin1993/1st-DL-CVMarathon/tree/master/homework/Day-001) : Install & Setup [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
