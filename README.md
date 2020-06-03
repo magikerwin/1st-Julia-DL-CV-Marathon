@@ -1,6 +1,6 @@
 # :runner: 1st-DL-CVMarathon in Julia
 
-Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.com/), which is a marathon of training your web crawling skill.
+Personal uploading space for the [1st-Julia-DL-CV-Marathon](https://julia.cupoy.com/), which is a marathon of training your programming skill in Julia.
 
 <img src="./indexBanner.png">
 
